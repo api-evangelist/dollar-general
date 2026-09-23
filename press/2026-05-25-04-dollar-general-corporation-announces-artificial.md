@@ -1,7 +1,9 @@
 ---
 title: Dollar General Corporation Announces Artificial ...
 url: https://www.andnowuknow.com/quick-dish/dollar-general-corporation-announces-artificial-intelligence-ai/anuk-staff/101424
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dollar General" press release artificial intelligence'
 position: 4
 source: serpapi-google

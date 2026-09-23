@@ -1,7 +1,9 @@
 ---
 title: In-Store AI Ads Coming to 6000 Dollar General Locations
 url: https://progressivegrocer.com/store-ai-ads-coming-6000-dollar-general-locations
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dollar General" press release artificial intelligence'
 position: 5
 source: serpapi-google

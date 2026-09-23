@@ -1,7 +1,9 @@
 ---
 title: Dollar General expands retail media network with AI ...
 url: https://cspdailynews.com/technologyservices/dollar-general-expands-retail-media-network-ai-powered-audio-unified-ad
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Dollar General" press release artificial intelligence'
 position: 3
 source: serpapi-google
